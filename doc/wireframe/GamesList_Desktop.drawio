@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T02:18:00.411Z" agent="5.0 (Windows)" etag="QyqIR2aBhldB51G56YZH" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T02:19:02.112Z" agent="5.0 (Windows)" etag="TT08tTU6bS2gTjpQaWq7" version="20.8.17" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="2074" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="qYweie0b1nYVaN36p5k9-4" value="&lt;b&gt;Platform&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aw72fDr-vhfTpAdhDLPl-1" value="Paper Mario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aw72fDr-vhfTpAdhDLPl-1" value="&lt;font color=&quot;#6666FF&quot;&gt;Paper Mario&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="260" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aw72fDr-vhfTpAdhDLPl-2" value="Nintendo 64" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -64,7 +64,7 @@
         <mxCell id="aw72fDr-vhfTpAdhDLPl-6" value="02/06/2023" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1030" y="260" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aw72fDr-vhfTpAdhDLPl-7" value="Pokemon Gold Version" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aw72fDr-vhfTpAdhDLPl-7" value="&lt;font color=&quot;#6666FF&quot;&gt;Pokemon Gold Version&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="310" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aw72fDr-vhfTpAdhDLPl-8" value="Gameboy Color" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
