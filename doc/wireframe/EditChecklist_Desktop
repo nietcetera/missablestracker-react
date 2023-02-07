@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T05:42:26.969Z" agent="5.0 (Windows)" etag="xZ991pJ3zhxgSCpIX8wm" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T05:43:37.421Z" agent="5.0 (Windows)" etag="YKId0LRNhfCoJRps4eCW" version="20.8.17" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="2074" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
       <root>
@@ -38,12 +38,12 @@
           <mxGeometry x="410" y="160" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6NJUhZv3eudXhsC6fUwE-3" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="410" y="390" width="770" height="310" as="geometry" />
+          <mxGeometry x="410" y="440" width="770" height="310" as="geometry" />
         </mxCell>
         <mxCell id="XFUNewQwgxwMZUqjQPG6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=default;" parent="6NJUhZv3eudXhsC6fUwE-3" vertex="1">
           <mxGeometry width="770" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="ylAFWsDwdJEkTEsjpvLw-11" value="Add" style="rounded=0;whiteSpace=wrap;html=1;" parent="6NJUhZv3eudXhsC6fUwE-3" vertex="1">
+        <mxCell id="ylAFWsDwdJEkTEsjpvLw-11" value="Submit" style="rounded=0;whiteSpace=wrap;html=1;" parent="6NJUhZv3eudXhsC6fUwE-3" vertex="1">
           <mxGeometry x="400" y="250" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ylAFWsDwdJEkTEsjpvLw-12" value="Clear" style="rounded=0;whiteSpace=wrap;html=1;" parent="6NJUhZv3eudXhsC6fUwE-3" vertex="1">
@@ -133,11 +133,17 @@
         <mxCell id="6NJUhZv3eudXhsC6fUwE-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="963" y="318" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="oBX2waKAflDeR6lUftl3-1" value="Submit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="720" width="116" height="40" as="geometry" />
+        <mxCell id="oBX2waKAflDeR6lUftl3-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="910" y="770" width="256" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oBX2waKAflDeR6lUftl3-2" value="Cancel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="720" width="116" height="40" as="geometry" />
+        <mxCell id="oBX2waKAflDeR6lUftl3-1" value="Confirm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oBX2waKAflDeR6lUftl3-4">
+          <mxGeometry x="140" width="116" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX2waKAflDeR6lUftl3-2" value="Cancel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oBX2waKAflDeR6lUftl3-4">
+          <mxGeometry width="116" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX2waKAflDeR6lUftl3-5" value="Edit Entry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
